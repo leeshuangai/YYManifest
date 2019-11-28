@@ -13,6 +13,18 @@
 					<key>url</key>
 					<string>http://10.130.2.149:8081/app/order/Administer.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>http://10.130.2.149:8081/app/order/order_s.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>http://10.130.2.149:8081/app/order/order_b.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
